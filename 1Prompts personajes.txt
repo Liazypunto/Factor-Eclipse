@@ -1,0 +1,2025 @@
+🟡 LIAZ — PROTAGONISTA
+📋 HOJA DE PERSONAJE
+text
+
+═══════════════════════════════════════════════════
+INFORMACIÓN BÁSICA
+═══════════════════════════════════════════════════
+
+NOMBRE COMPLETO: Liaz
+EDAD: 20 años
+GÉNERO: Masculino
+ALTURA: 1.80 m
+PESO: aprox. 72 kg
+COMPLEXIÓN: Atlética delgada
+FECHA DE INVOCACIÓN: Reciente (evento actual)
+ORIGEN: Mundo original (invocado a Elarion)
+
+═══════════════════════════════════════════════════
+ROL EN EL EQUIPO
+═══════════════════════════════════════════════════
+
+POSICIÓN: Líder de facto
+ESPECIALIDAD: Combate cuerpo a cuerpo + magia
+PERSONALIDAD DE LIDERAZGO: Calmado y estratégico
+FUNCIÓN TÁCTICA: Punta de lanza / decisión final
+
+═══════════════════════════════════════════════════
+APARIENCIA FÍSICA DETALLADA
+═══════════════════════════════════════════════════
+
+CABELLO:
+- Color: Negro puro absoluto
+- Sin tinte azul, sin tinte grisáceo
+- Textura: Naturalmente messy
+- Longitud: Medio, cae sobre frente sutilmente
+- Estilo: Desordenado natural, ligeramente puntiagudo
+- Sin peinado forzado
+
+OJOS:
+- Color: Dorado brillante luminoso
+- Tono: Amber-gold cálido
+- Forma: Ligeramente rasgados, adultos
+- Expresión base: Enfocada, calculadora
+
+ROSTRO:
+- Mandíbula: Definida angular
+- Rasgos: Adulto joven, agudos
+- Sin barba nunca
+- Sin stubble
+- Piel clara
+
+CUERPO:
+- Construcción atlética delgada
+- Hombros proporcionados
+- Postura recta, natural
+- Movimientos calmados
+
+═══════════════════════════════════════════════════
+UNIFORME OFICIAL FACTOR ECLIPSE
+═══════════════════════════════════════════════════
+
+ABRIGO PRINCIPAL:
+- Color base: Negro oscuro
+- Trim dominante: DORADO alto contraste
+- Acentos secundarios: Azul eléctrico
+- Diseño: Líneas estructurales angulares
+- Detalles decorativos: Líneas tipo relámpagos
+  estilizados en las mangas
+- Longitud: Estándar del grupo
+
+CAPA:
+- Corta y angular
+- Diseño geométrico
+- Sugiere velocidad
+- Acentos dorados en bordes
+
+DETALLES ADICIONALES:
+- Cadenas doradas finas
+  desde hombro izquierdo hasta pecho
+- Emblema Astraval centrado en el pecho
+- Botones/hebillas doradas visibles
+
+═══════════════════════════════════════════════════
+UTILERÍA PERMANENTE
+═══════════════════════════════════════════════════
+
+GUANTES:
+- Tipo: Fingerless (sin dedos)
+- Color: Negro
+- Trim: Dorado en muñeca
+- Material: Cuero de combate
+- SIEMPRE en ambas manos cuando visibles
+
+CINTURÓN:
+- Ancho negro cuero
+- Hebilla dorada centrada
+- Sobre el abrigo a nivel de cintura
+
+BOTAS:
+- Altas de combate
+- Cuero oscuro
+- Trim dorado en borde superior
+- Diseño funcional elegante
+
+═══════════════════════════════════════════════════
+ARMAS
+═══════════════════════════════════════════════════
+
+ARMAS PRIMARIAS:
+TWIN KNUCKLE-DAGGERS (par emparejado)
+- Cantidad: EXACTAMENTE 2 (nunca 1, nunca 3)
+- Longitud total: 20-30 cm cada una
+- Hoja: 10-15 cm únicamente
+- Diseño: Base de brass knuckle (nudillera)
+  con hoja corta saliendo hacia adelante
+- Grabados ornamentales en la nudillera
+- Color: Negro con detalles metálicos
+
+POSICIÓN PASIVA:
+- Una en costado IZQUIERDO de la cintura
+- Una en costado DERECHO de la cintura
+- Horizontales perpendiculares al cuerpo
+- Sujetas a belt loops en ambos lados
+- Empuñaduras hacia adelante
+
+POSICIÓN ACTIVA (combate):
+- Colocadas en las manos a través
+  de las nudilleras
+- Hoja se extiende hacia adelante
+- Uso: combate cuerpo a cuerpo + canal
+  de energía dorada
+
+ARMA SECUNDARIA:
+- Energía dorada (relámpagos)
+- Manifestación mágica
+- Es su arma principal real
+- Las dagas son apoyo
+
+═══════════════════════════════════════════════════
+MAGIA Y HABILIDADES
+═══════════════════════════════════════════════════
+
+AFINIDAD ELEMENTAL: Rayo / Luz
+COLOR DE MAGIA: Dorado brillante
+
+NIVELES DE ENERGÍA:
+L1: Destellos dorados en manos
+L2: Líneas doradas trazando en el aire
+L3: Aura dorada completa envolviendo cuerpo
+L4: Entorno teñido de dorado
+LMAX: Espacio se fractura con luz dorada
+
+HABILIDADES ESPECIALES:
+- Velocidad aumentada por electricidad
+- Ataques a distancia con relámpagos
+- Bloqueo defensivo con energía
+
+═══════════════════════════════════════════════════
+PERSONALIDAD Y COMPORTAMIENTO
+═══════════════════════════════════════════════════
+
+ARQUETIPO: Líder estratégico calmado
+TEMPERAMENTO: Reservado, observador
+COMUNICACIÓN: Frases cortas, directas
+HUMOR: Seco, ocasional
+BAJO PRESIÓN: Más calmado aún
+DECISIONES: Rápidas pero calculadas
+
+EXPRESIONES BASE:
+- Neutro: Ojos ligeramente entrecerrados,
+  mandíbula relajada
+- Concentrado: Ceño ligeramente fruncido
+- Amusement: Ligero smirk esquina boca
+- Serio: Ojos completamente enfocados
+- Preocupado: Barbilla ligeramente baja
+🎨 PROMPT MAESTRO LIAZ
+text
+
+"premium Korean fantasy manhwa illustration,
+semi-realistic character rendering,
+
+LIAZ, male 1.80m, 20 years old adult,
+athletic lean build, adult male proportions,
+protagonist presence,
+
+FACE:
+pure black naturally messy medium hair,
+absolutely NO color tint (no blue no gray),
+slightly spiky natural texture,
+bright golden luminous eyes,
+amber-gold warm tone,
+clean-shaven sharp defined jawline,
+adult male features 20 years old,
+NO BEARD NO STUBBLE EVER,
+light fair skin,
+
+UNIFORM:
+long dark structured coat,
+DOMINANT GOLD TRIM lines high contrast,
+BLUE ELECTRIC accents secondary,
+decorative lightning-shaped lines on sleeves,
+short angular geometric cape,
+fine gold decorative chains from
+LEFT shoulder to chest,
+Astraval emblem centered on chest,
+fitted black trousers,
+
+UTILERÍA:
+black fingerless combat gloves both hands,
+gold trim at wrist,
+wide black leather belt gold buckle,
+tall dark combat boots gold trim,
+
+WEAPONS (EXACTLY TWO - MATCHING PAIR):
+TWIN KNUCKLE-DAGGERS,
+brass knuckle base with ornamental engravings,
+short dagger blade 10-15cm extending forward,
+total length 20-30cm each,
+POSITION PASSIVE:
+one at his LEFT waist side,
+one at his RIGHT waist side,
+horizontal perpendicular to body,
+attached to belt loops,
+brass guards facing forward,
+NO third dagger,
+
+SECONDARY WEAPON:
+golden lightning energy manifestation,
+
+EXPRESSION BASE:
+calm strategic observant,
+eyes narrowed in focus,
+neutral mouth,
+quiet confidence,
+
+STYLE:
+clean sharp linework,
+soft gradient shading,
+warm cinematic lighting,
+NOT photorealistic,
+coherent professional art direction"
+🔴 JOTA — COMPAÑERO DE COMBATE
+📋 HOJA DE PERSONAJE
+text
+
+═══════════════════════════════════════════════════
+INFORMACIÓN BÁSICA
+═══════════════════════════════════════════════════
+
+NOMBRE COMPLETO: Jota
+EDAD: 20 años
+GÉNERO: Masculino
+ALTURA: 1.81 m
+PESO: aprox. 74 kg
+COMPLEXIÓN: Atlética delgada
+ORIGEN: Mundo original (invocado a Elarion)
+
+═══════════════════════════════════════════════════
+ROL EN EL EQUIPO
+═══════════════════════════════════════════════════
+
+POSICIÓN: Combatiente puro / segundo al mando
+ESPECIALIDAD: Combate a espada, sin magia
+PERSONALIDAD DE ROL: Pragmático, directo
+FUNCIÓN TÁCTICA: Ataque físico y defensa
+
+═══════════════════════════════════════════════════
+APARIENCIA FÍSICA DETALLADA
+═══════════════════════════════════════════════════
+
+CABELLO:
+- Base: Negro
+- Puntas: ROJO INTENSO claramente visible
+- Estilo: Mullet moderno
+- Sides: cortos
+- Back: más largo con puntas rojas visibles
+- Textura: ligeramente estilizado
+
+OJOS:
+- Color: Rojo intenso
+- No naranja, no vino
+- Rojo puro brillante
+- Expresión base: Intensa, calculadora
+
+ROSTRO:
+- Mandíbula: Angular, más marcada que Liaz
+- Rasgos: Agudos, definidos
+- Sin barba nunca
+- Sin stubble
+- Piel clara
+
+CUERPO:
+- Atlético delgado
+- Similar a Liaz pero ligeramente más alto
+- Movimientos eficientes
+- Postura de guerrero
+
+═══════════════════════════════════════════════════
+UNIFORME OFICIAL FACTOR ECLIPSE
+═══════════════════════════════════════════════════
+
+ABRIGO PRINCIPAL:
+- Color base: Negro oscuro
+- Trim: GRIS únicamente
+- SIN afinidad elemental
+- SIN color distintivo dominante
+- Diseño: SIMPLEST del grupo
+- Balanced versatile
+- Sin adornos elaborados
+
+CAPA/DETALLES:
+- Interior visible: Rojo oscuro cuando el
+  abrigo se mueve (revelado sutil)
+- Emblema Astraval centrado en el pecho
+- Diseño limpio funcional
+
+═══════════════════════════════════════════════════
+UTILERÍA PERMANENTE
+═══════════════════════════════════════════════════
+
+GUANTES:
+- Tipo: Fingerless
+- Color: Negro
+- Trim: Rojo en muñeca
+- Material: Cuero de combate
+- SIEMPRE en ambas manos
+
+CINTURÓN:
+- Cuero negro
+- Hebilla plateada
+- Sobre el abrigo
+
+STRAP DIAGONAL:
+- Correa diagonal cruzando torso
+- De hombro derecho a cadera izquierda
+- Sujeta arma
+
+BOTAS:
+- Altas de combate
+- Cuero oscuro reforzado
+- Diseño funcional
+
+═══════════════════════════════════════════════════
+ARMAS
+═══════════════════════════════════════════════════
+
+ARMA PRIMARIA:
+LONG SWORD (Espada larga de una mano)
+- Cantidad: EXACTAMENTE 1
+- Longitud total: 90-100 cm en funda
+- Diseño: Simple, equilibrado, versátil
+- Hoja: Curva de un solo filo
+  (estilo katana/sable ligero)
+- Guarda: Con detalles alados sutiles
+- Empuñadura: Trenzada
+- Color: Metal plateado, empuñadura oscura
+
+POSICIÓN PASIVA:
+- Envainada en cadera IZQUIERDA
+- Angulada 15-20° hacia atrás
+- Empuñadura hacia adelante
+- Punta visible bajo el abrigo
+- NUNCA en la espalda
+- NUNCA en la derecha
+
+POSICIÓN ACTIVA:
+- Desenvainada con mano derecha
+- Cross-draw natural
+- Uso: combate a espada
+
+SIN ARMA SECUNDARIA
+Sin afinidad mágica
+
+═══════════════════════════════════════════════════
+MAGIA Y HABILIDADES
+═══════════════════════════════════════════════════
+
+AFINIDAD ELEMENTAL: NINGUNA
+Es el único del grupo sin magia elemental
+
+HABILIDADES:
+- Combate a espada superior
+- Reflexes agudos
+- Combate defensivo
+- Puede aprender técnicas físicas
+
+═══════════════════════════════════════════════════
+PERSONALIDAD Y COMPORTAMIENTO
+═══════════════════════════════════════════════════
+
+ARQUETIPO: El pragmático seco
+TEMPERAMENTO: Directo, sin rodeos
+COMUNICACIÓN: Frases cortas, deadpan
+HUMOR: Sarcasmo seco constante
+BAJO PRESIÓN: Se enfoca, silencioso
+DECISIONES: Rápidas, sin dudar
+
+EXPRESIONES BASE:
+- Neutro: Cara relajada, mirada intensa
+- Concentrado: Ojos entrecerrados
+- Amusement: Ghost of a smirk esquina boca
+- Serio: Mandíbula tensa
+- Sarcasmo: Ceja arqueada
+🎨 PROMPT MAESTRO JOTA
+text
+
+"premium Korean fantasy manhwa illustration,
+semi-realistic character rendering,
+
+JOTA, male 1.81m, 20 years old adult,
+lean athletic build, adult male proportions,
+
+FACE:
+black modern mullet hairstyle,
+red tips clearly visible at ends of hair,
+intense red eyes,
+clean-shaven adult angular face,
+sharper jaw than average,
+NO BEARD NO STUBBLE EVER,
+light fair skin,
+naturally intense expression,
+
+UNIFORM:
+long dark structured coat,
+SIMPLEST design of the group,
+gray trim only,
+NO elemental color dominant,
+balanced versatile design,
+deep red interior lining visible
+when coat moves at collar,
+Astraval emblem centered on chest,
+fitted black trousers,
+
+UTILERÍA:
+black fingerless combat gloves both hands,
+red trim at wrist,
+diagonal strap across torso,
+black leather belt silver buckle,
+tall dark combat boots reinforced,
+
+WEAPON (EXACTLY ONE):
+LONG ONE-HANDED SWORD,
+total length 90-100cm in scabbard,
+simple curved single-edged blade,
+katana/sabre style,
+silver winged crossguard subtle detail,
+braided handle grip,
+leather scabbard,
+POSITION PASSIVE:
+sheathed at LEFT HIP ONLY,
+angled 15-20° backward,
+handle forward for right-hand draw,
+silver guard visible above hip,
+sheath tip visible below coat hem,
+NEVER on back,
+NEVER on right side,
+NO duplicate sword,
+
+NO MAGIC AFFINITY (only fighter without magic),
+
+EXPRESSION BASE:
+composed pragmatic dry tone,
+intense focused eyes,
+neutral mouth line,
+subtle sarcastic edge,
+
+STYLE:
+clean sharp linework,
+soft gradient shading,
+warm cinematic lighting,
+NOT photorealistic,
+coherent professional art direction"
+🟤 RAGDA — TANQUE DEL EQUIPO
+📋 HOJA DE PERSONAJE
+text
+
+═══════════════════════════════════════════════════
+INFORMACIÓN BÁSICA
+═══════════════════════════════════════════════════
+
+NOMBRE COMPLETO: Ragda
+EDAD: 20 años
+GÉNERO: Masculino
+ALTURA: 1.83 m (más alto del grupo estudiante)
+PESO: aprox. 82 kg
+COMPLEXIÓN: Atlética robusta / hombros anchos
+ORIGEN: Mundo original (invocado a Elarion)
+
+═══════════════════════════════════════════════════
+ROL EN EL EQUIPO
+═══════════════════════════════════════════════════
+
+POSICIÓN: Tanque / Guardián
+ESPECIALIDAD: Defensa, magia de tierra, detección
+PERSONALIDAD DE ROL: Estable, confiable
+FUNCIÓN TÁCTICA: Frente de batalla, protección
+
+═══════════════════════════════════════════════════
+APARIENCIA FÍSICA DETALLADA
+═══════════════════════════════════════════════════
+
+CABELLO:
+- Base: Negro
+- Highlights: VERDE OSCURO claramente visibles
+- Concentrados en top front section
+- Estilo: Peinado hacia la IZQUIERDA
+- Flequillo diagonal
+- Sides: Mid taper fade limpio
+- NUNCA sin verde
+- NUNCA sin fade
+
+OJOS:
+- Color: Verde oscuro
+- No verde claro
+- No verde oliva
+- Verde saturado oscuro
+- Expresión base: Serio, evaluador
+
+ROSTRO:
+- Mandíbula: Ancha, definida
+- Rasgos: Adulto joven fuerte
+- ABSOLUTAMENTE SIN BARBA
+- ABSOLUTAMENTE SIN STUBBLE
+- ABSOLUTAMENTE SIN SOMBRA DE BARBA
+- Piel clara
+- Pómulos marcados
+
+CUERPO:
+- Atlético broad-shouldered
+- Más robusto que Liaz o Jota
+- Postura estable, grounded
+- Movimientos deliberados
+
+═══════════════════════════════════════════════════
+UNIFORME OFICIAL FACTOR ECLIPSE
+═══════════════════════════════════════════════════
+
+ABRIGO PRINCIPAL:
+- Color base: Negro oscuro
+- Trim: MARRÓN OSCURO
+- Diseño: MÁS ROBUSTO del grupo
+- Tela: Más gruesa, más rugged
+- Sin adornos elaborados
+
+PROTECCIONES:
+- SHOULDER PANELS marrones ambos hombros
+- Reforzamiento de brazos visible
+- Armor plating adicional
+- Straps de armadura across chest
+- Sin perder movilidad
+- Diseño sencillo y funcional
+
+DETALLES:
+- Emblema Astraval centrado en el pecho
+- Diseño más pesado visualmente
+
+═══════════════════════════════════════════════════
+UTILERÍA PERMANENTE
+═══════════════════════════════════════════════════
+
+GUANTES:
+- Tipo: HEAVY GAUNTLETS (no fingerless)
+- Extienden hasta mid-forearm
+- Color: Negro con trim marrón
+- Reforzados en dorso de la mano
+- Diseño protector funcional
+- SIEMPRE en ambas manos
+
+CINTURÓN:
+- Cuero marrón ancho
+- Hebilla plateada
+- Placa de refuerzo metálico
+- Combina con shoulder panels
+
+BOTAS:
+- Pesadas de combate knee-high
+- Cuero oscuro reforzado
+- Trim marrón en borde
+- Suela gruesa
+- Más protectoras del grupo
+
+═══════════════════════════════════════════════════
+ARMAS
+═══════════════════════════════════════════════════
+
+ARMA PRIMARIA:
+MASSIVE WAR HAMMER
+- Cantidad: EXACTAMENTE 1
+- Longitud total: 100-120 cm
+- Cabeza: 30-35 cm rectangular grande
+- Diseño de cabeza:
+  * Principal: Rectangular masiva
+  * Posterior: Punta metálica tipo hacha
+  * Gemas esmeralda embebidas
+  * Grabados ornamentales
+- Mango: Madera con acabado metálico
+- Muy pesado visualmente
+
+POSICIÓN PASIVA:
+- Strapped diagonal en la ESPALDA
+- Cabeza sobre hombro DERECHO
+- Mango cruzando hacia cadera IZQUIERDA
+- Strap de cuero marrón visible en pecho
+- Peso afecta postura (hombros ligeramente adelante)
+
+POSICIÓN ACTIVA:
+- Se toma con AMBAS MANOS
+- Requiere fuerza visible
+- Golpes con impacto pesado
+
+═══════════════════════════════════════════════════
+MAGIA Y HABILIDADES
+═══════════════════════════════════════════════════
+
+AFINIDAD ELEMENTAL: Tierra
+COLOR DE MAGIA: Verde tierra
+
+NIVELES DE ENERGÍA:
+L1: Tensión muscular visible
+L2: Vibración sutil en el suelo
+L3: Grietas verdes en el suelo
+L4: Manifestación física masiva de fuerza
+LMAX: Distorsión gravitacional visual
+
+HABILIDADES ESPECIALES:
+- Detección de puntos extraños (habilidad especial)
+  * Marca lugares con patrones anómalos
+  * Útil para encontrar cuevas, túneles
+- Endurecimiento del suelo bajo sus pies
+- Golpes con onda expansiva
+- Defensa mejorada con magia de tierra
+
+═══════════════════════════════════════════════════
+PERSONALIDAD Y COMPORTAMIENTO
+═══════════════════════════════════════════════════
+
+ARQUETIPO: Guardián sabio silencioso
+TEMPERAMENTO: Estable, serio, confiable
+COMUNICACIÓN: Frases breves, medidas
+HUMOR: Muy ocasional, seco
+BAJO PRESIÓN: Aún más estable
+DECISIONES: Ponderadas, evaluadas
+
+EXPRESIONES BASE:
+- Neutro: Cara seria, ojos evaluadores
+- Concentrado: Ceño ligeramente fruncido
+- Amusement: Sonrisa muy sutil
+- Serio: Mandíbula tensa
+- Protector: Postura hacia adelante
+🎨 PROMPT MAESTRO RAGDA
+text
+
+"premium Korean fantasy manhwa illustration,
+semi-realistic character rendering,
+
+RAGDA, male 1.83m tallest of student group,
+20 years old adult,
+athletic broad-shouldered build,
+adult male proportions,
+
+FACE:
+black hair with clearly visible dark green highlights,
+highlights concentrated on top front section,
+hair swept to his LEFT with diagonal fringe,
+clean mid taper fade on sides,
+dark green eyes,
+ABSOLUTELY NO BEARD NO STUBBLE EVER,
+NO SHADOW BEARD OF ANY KIND,
+clean-shaven adult broad jawline,
+strong defined cheekbones,
+most physically strong looking of students,
+light fair skin,
+
+UNIFORM:
+MOST ROBUST uniform of the group,
+long heavy dark structured coat,
+thicker rugged fabric,
+BROWN SHOULDER PANELS both shoulders visible,
+armor reinforcement plating on arms,
+armor reinforcement straps across chest,
+sencillo y funcional design,
+NO elaborate ornamentation,
+Astraval emblem centered on chest,
+fitted black trousers,
+
+UTILERÍA:
+HEAVY GAUNTLETS both hands,
+extending to mid-forearm,
+brown leather trim matching shoulder panels,
+reinforced back of hand,
+wide brown leather belt,
+silver buckle with metal reinforcement plate,
+heavy knee-high combat boots reinforced,
+brown leather trim top edge,
+most protective footwear of group,
+
+WEAPON (EXACTLY ONE):
+MASSIVE WAR HAMMER,
+total length 100-120cm,
+rectangular main head 30-35cm wide,
+axe-like blade point on rear of hammer head,
+emerald gem details embedded on head,
+ornamental engravings on head,
+wooden handle with metallic finish,
+visually very heavy,
+POSITION PASSIVE:
+strapped diagonally on BACK,
+head above his RIGHT shoulder,
+handle crossing toward LEFT hip,
+thick brown leather strap visible across chest,
+weight causing shoulders slightly forward,
+NO duplicate hammer,
+
+MAGIC AFFINITY: EARTH
+Green earth energy manifestation,
+Special ability: detection of anomalies,
+
+EXPRESSION BASE:
+calm grounded serious,
+quiet strength,
+observant evaluating gaze,
+stable protective presence,
+
+STYLE:
+clean sharp linework,
+soft gradient shading,
+warm cinematic lighting,
+NOT photorealistic,
+coherent professional art direction"
+🔵 DASE — ESTRATEGA MAGO
+📋 HOJA DE PERSONAJE
+text
+
+═══════════════════════════════════════════════════
+INFORMACIÓN BÁSICA
+═══════════════════════════════════════════════════
+
+NOMBRE COMPLETO: Dase
+EDAD: 20 años
+GÉNERO: Masculino
+ALTURA: 1.78 m (empatado con Mun)
+PESO: aprox. 68 kg
+COMPLEXIÓN: Delgada refinada
+ORIGEN: Mundo original (invocado a Elarion)
+
+═══════════════════════════════════════════════════
+ROL EN EL EQUIPO
+═══════════════════════════════════════════════════
+
+POSICIÓN: Estratega mágico / Navegante
+ESPECIALIDAD: Magia de agua + percepción + análisis
+PERSONALIDAD DE ROL: Analítico, calculador
+FUNCIÓN TÁCTICA: Rastreo, hechizos, estrategia
+
+═══════════════════════════════════════════════════
+APARIENCIA FÍSICA DETALLADA
+═══════════════════════════════════════════════════
+
+CABELLO:
+- Color: Azul marino (navy blue)
+- Claramente AZUL no negro
+- Textura: Rizada
+- Estilo: KNOT TOP (moño superior)
+- Small tied bun claramente visible en la coronilla
+- Loose curly strands enmarcando la frente
+- Sides más cortos que el top
+
+OJOS:
+- Color: Azul medio claro
+- No sky-blue (ese es de Mun)
+- Azul limpio analítico
+- Expresión base: Calmado, calculador
+
+ROSTRO:
+- Refinado más delicado
+- Pómulos más agudos
+- Rasgos elegantes
+- Sin barba, sin stubble
+- Piel clara
+
+CUERPO:
+- Delgado refinado
+- Menos ancho que Liaz o Jota
+- Postura recta académica
+- Movimientos elegantes controlados
+
+═══════════════════════════════════════════════════
+UNIFORME OFICIAL FACTOR ECLIPSE
+═══════════════════════════════════════════════════
+
+ABRIGO PRINCIPAL:
+- Color base: Negro oscuro
+- Trim: AZUL PROFUNDO (navy)
+- Longitud: LIGERAMENTE MÁS LARGO
+  que los demás
+- Detalles: Deep blue accents throughout
+- Diseño: Académico estructurado
+
+STRAPS Y ACCESORIOS:
+- MULTIPLE CROSSED STRAPS across torso
+- Configuración cruzada
+- De hombros a caderas opuestas
+- Silver clasps visibles
+- Utility pouches attached to straps
+- 2-3 bolsas pequeñas visibles
+
+DETALLES:
+- Emblema Astraval centrado en el pecho
+- Diseño más equipado del grupo
+- Estilo académico-táctico
+
+═══════════════════════════════════════════════════
+UTILERÍA PERMANENTE
+═══════════════════════════════════════════════════
+
+GUANTES:
+- Tipo: FULL FINGER (dedos completos)
+- Diferente al resto del grupo
+- Color: Negro
+- Trim: Azul navy en muñeca
+- Diseño refinado académico
+- SIEMPRE en ambas manos
+
+CINTURÓN:
+- Cuero oscuro
+- Detalles navy
+- Menos ancho que Ragda
+
+BOLSAS DE UTILIDAD:
+- Small dark leather pouches
+- Attached to torso straps
+- Contienen grimorio o herramientas mágicas
+- 2-3 pouches visibles
+
+BOTAS:
+- Mid-calf altura
+- Cuero oscuro refinado
+- Trim navy en borde superior
+- Estilo académico sobre combate
+
+═══════════════════════════════════════════════════
+ARMAS
+═══════════════════════════════════════════════════
+
+ARMA PRIMARIA:
+MAGICAL COMBAT STAFF
+- Cantidad: EXACTAMENTE 1
+- Longitud: 170-180 cm (casi su altura)
+- Diseño: Madera oscura RETORCIDA orgánica
+- Apariencia: Trenzada, no ceremonial
+- Herramienta funcional de combate
+- Detalles:
+  * Cristal grande AZUL NAVY en la punta
+  * Cristal pequeño AZUL NAVY en la base
+  * Bandas plateadas decorativas
+- Color general: Azul oscuro con acentos plateados
+
+POSICIÓN PASIVA:
+- SIEMPRE en la MANO (nunca en espalda)
+- Por defecto: MANO DERECHA
+- Puede cambiar a mano izquierda si necesita
+  usar la derecha para otra tarea (mapa, señalar)
+- Vertical con base cerca del suelo
+- Cristal en la punta sobre el hombro
+
+POSICIÓN ACTIVA:
+- Se planta en el suelo para canalizar
+- Puede alzarse para ataques
+- Cristal brilla intensamente con magia
+
+═══════════════════════════════════════════════════
+MAGIA Y HABILIDADES
+═══════════════════════════════════════════════════
+
+AFINIDAD ELEMENTAL: Agua
+COLOR DE MAGIA: Azul (partículas de agua)
+
+NIVELES DE ENERGÍA:
+L1: Luz azul en ojos y cristal
+L2: Pequeñas esferas de agua flotantes
+L3: Estructuras cristalizadas de energía
+L4: Reorganización espacial visible
+LMAX: Dimensión alternativa visible
+
+HABILIDADES ESPECIALES:
+- Rastreo mágico (con pergaminos de Heyker)
+- Detección de concentraciones de maná
+- Detección de presencias vivas en zona
+- Manifestación de esferas de agua
+- Niebla mágica expandible
+- Análisis táctico
+
+═══════════════════════════════════════════════════
+PERSONALIDAD Y COMPORTAMIENTO
+═══════════════════════════════════════════════════
+
+ARQUETIPO: Intelectual analítico
+TEMPERAMENTO: Calmado, curioso, observador
+COMUNICACIÓN: Frases medidas, explicativas
+HUMOR: Inteligente, ocasional
+BAJO PRESIÓN: Se enfoca en análisis
+DECISIONES: Basadas en datos y lógica
+
+EXPRESIONES BASE:
+- Neutro: Cara refinada relajada
+- Concentrado: Ojos entrecerrados analizando
+- Amusement: Sonrisa sutil informed
+- Serio: Ceño concentrado
+- Sorprendido: Ojos abiertos observando
+🎨 PROMPT MAESTRO DASE
+text
+
+"premium Korean fantasy manhwa illustration,
+semi-realistic character rendering,
+
+DASE, male 1.78m same height as Mun,
+20 years old adult,
+slim refined build,
+adult male proportions,
+
+FACE:
+dark navy blue hair (clearly blue not black),
+curly texture,
+KNOT TOP hairstyle,
+small tied bun clearly visible at crown,
+loose curly strands framing forehead,
+sides shorter than top,
+clear medium blue eyes analytical,
+NOT sky-blue (that is Mun),
+clean-shaven refined face,
+elegant features,
+sharper cheekbones than others,
+NO BEARD NO STUBBLE EVER,
+light fair skin,
+
+UNIFORM:
+long dark structured coat,
+SLIGHTLY LONGER hem than other students,
+deep navy blue trim throughout,
+academic structured design,
+MULTIPLE CROSSED STRAPS across torso,
+crossed configuration shoulders to opposite hips,
+silver clasps visible,
+2-3 small dark leather utility pouches on straps,
+academic-tactical equipped aesthetic,
+Astraval emblem centered on chest,
+fitted black trousers,
+
+UTILERÍA:
+FULL FINGER black gloves both hands,
+navy blue trim at wrist,
+refined academic design
+different from other students who wear fingerless,
+dark leather belt with navy accents,
+mid-calf refined boots,
+navy blue trim top edge,
+academic style over combat,
+
+WEAPON (EXACTLY ONE):
+MAGICAL COMBAT STAFF,
+total length 170-180cm nearly his height,
+organic twisted dark wood design,
+tangled braided appearance NOT ceremonial,
+large navy blue crystal at top,
+small navy blue crystal at base,
+silver decorative bands along shaft,
+functional combat tool aesthetic,
+POSITION PASSIVE:
+held in RIGHT HAND vertical (default),
+can switch to LEFT HAND if right needed for task,
+base near ground level,
+crystal top above his shoulder,
+hand grip visible on shaft,
+strong vertical compositional line,
+NO duplicate staff,
+
+MAGIC AFFINITY: WATER
+Blue water particle manifestation,
+Special abilities: mana detection,
+presence tracking, water spheres,
+
+EXPRESSION BASE:
+calm analytical observant,
+intellectual distance,
+composed refined,
+curious calculating gaze,
+
+STYLE:
+clean sharp linework,
+soft gradient shading,
+warm cinematic lighting,
+NOT photorealistic,
+coherent professional art direction"
+🟢 MUN — EXPLORADOR ÁGIL
+📋 HOJA DE PERSONAJE
+text
+
+═══════════════════════════════════════════════════
+INFORMACIÓN BÁSICA
+═══════════════════════════════════════════════════
+
+NOMBRE COMPLETO: Mun
+EDAD: 20 años (ADULTO no adolescente)
+GÉNERO: Masculino
+ALTURA: 1.78 m (empatado con Dase)
+PESO: aprox. 65 kg
+COMPLEXIÓN: Delgada atlética ligera
+ORIGEN: Mundo original (invocado a Elarion)
+
+═══════════════════════════════════════════════════
+ROL EN EL EQUIPO
+═══════════════════════════════════════════════════
+
+POSICIÓN: Explorador / Ataque ágil
+ESPECIALIDAD: Magia de viento + velocidad
+PERSONALIDAD DE ROL: Alivio cómico, energético
+FUNCIÓN TÁCTICA: Flancos, movimiento rápido
+
+═══════════════════════════════════════════════════
+APARIENCIA FÍSICA DETALLADA
+═══════════════════════════════════════════════════
+
+CABELLO:
+- Color: PLATEADO-BLANCO puro
+- Tono: Silver-white metálico
+- NO gris
+- NO rubio platino
+- NO blanco puro sin plateado
+- Textura: Naturalmente messy layered
+- Longitud: Corto a medio
+- Cae naturalmente sin producto
+- No fade en sides
+- Ligeramente puntiagudo
+
+OJOS:
+- Color: AZUL CELESTE BRILLANTE
+- Tono: Sky-blue claro
+- NO verde
+- NO turquesa
+- NO azul oscuro
+- Tamaño: Proporcional adulto
+- NO ojos anime gigantes
+- NO ojos infantiles
+- Expresión base: Animada, expresiva
+
+ROSTRO:
+- Adulto joven mature
+- Rasgos abiertos expresivos
+- Mandíbula suave pero adulta
+- La cara ADULTA lee como 20 años
+- NO cara de niño
+- NO cara de adolescente
+- Sin barba, sin stubble
+- Piel clara
+
+CUERPO:
+- Delgado atlético ligero
+- Proporciones adultas
+- Hombros proporcionados de adulto
+- NO cuerpo infantil
+- NO cuerpo lanky
+- Postura ligera dinámica
+- Movimientos ágiles
+
+═══════════════════════════════════════════════════
+UNIFORME OFICIAL FACTOR ECLIPSE
+═══════════════════════════════════════════════════
+
+ABRIGO PRINCIPAL:
+- Color base: Negro oscuro
+- Trim: VERDE ESMERALDA
+- Detalles esmeralda en mangas Y hombros
+- Tela: MÁS LIGERA Y FLEXIBLE que los demás
+- Diseñada para movimientos rápidos
+- Diseño más aerodinámico
+
+CAPA:
+- CORTA TRASERA
+- DIVIDIDA en múltiples secciones flowing
+- Forma como corrientes de aire
+- Emerald green interior lining
+- Attached en upper shoulders
+- Se mueve fluidamente con movimiento
+- ELEMENTO DISTINTIVO ÚNICO
+
+DETALLES:
+- Emblema Astraval centrado en el pecho
+- Diseño ágil elegante
+
+═══════════════════════════════════════════════════
+UTILERÍA PERMANENTE
+═══════════════════════════════════════════════════
+
+GUANTES:
+- Tipo: Fingerless
+- Color: Negro
+- Trim: Verde esmeralda en muñeca
+- Material: Cuero ligero
+- SIEMPRE en ambas manos
+
+CINTURÓN:
+- Delgado cuero oscuro
+- Hebilla plateada
+- Menos abultado que los demás
+- Ligereza para agilidad
+
+BOTAS:
+- Mid-calf
+- Cuero oscuro ligero
+- Trim esmeralda en borde
+- Diseño para movimiento rápido
+- Menos pesadas que Ragda
+
+═══════════════════════════════════════════════════
+ARMAS
+═══════════════════════════════════════════════════
+
+ARMA PRIMARIA:
+LIGHT COMBAT SPEAR (Lanza ligera)
+- Cantidad: EXACTAMENTE 1
+- Longitud: 180-200 cm (más larga que su altura)
+- Diseño: Asta esbelta oscura
+- Cabeza (spearhead): MÁS PEQUEÑA de lo normal
+- Diseñada para movimientos rápidos
+- Detalles:
+  * Cabeza: Azul y blanco
+  * Cristal azul en base de la hoja
+  * Contrapeso decorativo en el extremo
+- Color general: Oscura con acentos azul/blanco
+
+POSICIÓN PASIVA:
+- Strapped diagonal en la ESPALDA
+- Spearhead sobre hombro IZQUIERDO
+- Base cerca de cadera DERECHA
+- Strap visible sobre hombro izquierdo
+- Cape dividida fluye alrededor de la lanza
+
+POSICIÓN ACTIVA:
+- Tomada con una o dos manos
+- Puede girarse
+- Puede lanzarse
+- Movimientos fluidos rápidos
+
+═══════════════════════════════════════════════════
+MAGIA Y HABILIDADES
+═══════════════════════════════════════════════════
+
+AFINIDAD ELEMENTAL: Viento
+COLOR DE MAGIA: Celeste/blanco (partículas de aire)
+
+NIVELES DE ENERGÍA:
+L1: Chispas de luz alrededor del cuerpo
+L2: Speed lines visibles en movimiento
+L3: Rastro de luz sostenido
+L4: Múltiples rastros simultáneos
+LMAX: El panel no puede contener su velocidad
+
+HABILIDADES ESPECIALES:
+- Ráfagas de viento
+- Detección de movimiento (cerca)
+- Corrientes de aire redirigidas
+- Velocidad aumentada
+- Empuje de objetos con viento
+- Salto aumentado
+
+═══════════════════════════════════════════════════
+PERSONALIDAD Y COMPORTAMIENTO
+═══════════════════════════════════════════════════
+
+ARQUETIPO: Alivio cómico enérgico
+TEMPERAMENTO: Extrovertido, expresivo, animado
+COMUNICACIÓN: Frases largas, sarcasmo, drama
+HUMOR: Constante, autodesprecio, imitaciones
+BAJO PRESIÓN: Bromas para aliviar tensión
+DECISIONES: Rápidas, a veces impulsivas
+
+EXPRESIONES BASE:
+- Neutro: Cara expresiva relajada
+- Concentrado: Ojos enfocados, ceja levantada
+- Amusement: Sonrisa abierta animada
+- Serio: Rare, pero cuando pasa es notable
+- Deadpan: Ceja arqueada, mirada seca
+
+IMPORTANTE:
+Su energía juvenil viene de EXPRESIONES
+y personalidad, NO de rasgos físicos infantiles.
+Es un adulto de 20 años que se comporta
+de forma extrovertida.
+🎨 PROMPT MAESTRO MUN
+text
+
+"premium Korean fantasy manhwa illustration,
+semi-realistic character rendering,
+
+MUN, male 1.78m same height as Dase,
+20 years old ADULT MAN,
+adult male proportions,
+NOT child NOT teenager,
+slim athletic light build,
+proportional adult male shoulders,
+
+FACE:
+pure silver-white naturally messy hair,
+light metallic silver tone,
+NOT gray, NOT platinum blond,
+slightly spiky layered texture,
+short to medium length,
+falls loosely without product,
+no fade on sides,
+bright light sky-blue proportional adult eyes,
+clear celeste tone,
+NOT green, NOT turquoise, NOT dark navy,
+NOT oversized anime child eyes,
+adult sized eyes proportional to face,
+clean-shaven mature adult face,
+20 year old adult jaw,
+NOT childlike features,
+NOT teenage features,
+light fair skin,
+expressive open features but ADULT,
+
+UNIFORM:
+LIGHTER FABRIC dark coat,
+more flexible for rapid movement,
+emerald green accents on sleeves and shoulders,
+saturated emerald clearly visible,
+SHORT DIVIDED BACK CAPE,
+split into multiple flowing sections,
+shaped like wind currents,
+emerald green interior lining,
+Astraval emblem centered on chest,
+fitted black trousers,
+
+UTILERÍA:
+black fingerless gloves both hands,
+emerald green trim at wrist,
+thin dark leather belt silver buckle,
+mid-calf combat boots for agility,
+emerald trim top edge,
+
+WEAPON (EXACTLY ONE):
+LIGHT COMBAT SPEAR,
+total length 180-200cm longer than his height,
+dark slender shaft,
+smaller-than-normal spearhead 15-20cm,
+sharp narrow blue and white spearhead,
+emerald green crystal at base of blade,
+decorative counterweight at end of shaft,
+lightweight agile design,
+POSITION PASSIVE:
+strapped diagonally on BACK,
+spearhead above his LEFT shoulder,
+shaft crossing toward RIGHT hip,
+brown leather strap over left shoulder visible,
+divided cape flowing partially around spear shaft,
+NO duplicate spear,
+
+MAGIC AFFINITY: WIND
+Sky-blue wind particle manifestation,
+Special abilities: movement detection,
+wind currents, speed enhancement,
+
+EXPRESSION BASE:
+animated open ADULT expression,
+energetic expressive personality,
+mature face with youthful energy,
+smiles reach the eyes,
+adult body language,
+NOT childlike gestures,
+
+CRITICAL NOTE:
+Mun is an ADULT MAN 20 years old,
+same age as Liaz and Jota,
+his youthful energy shows in EXPRESSION
+not in body size or facial features,
+
+STYLE:
+clean sharp linework,
+soft gradient shading,
+warm cinematic lighting,
+NOT photorealistic,
+coherent professional art direction"
+🟣 ALICE EVERGARDEN — MAESTRA DEL GREMIO
+📋 HOJA DE PERSONAJE
+text
+
+═══════════════════════════════════════════════════
+INFORMACIÓN BÁSICA
+═══════════════════════════════════════════════════
+
+NOMBRE COMPLETO: Alice Evergarden
+EDAD: 23 años
+GÉNERO: Femenino (única mujer del cast principal)
+ALTURA: 1.70 m
+PESO: aprox. 55 kg
+COMPLEXIÓN: Delgada elegante
+ORIGEN: Nativa de Elarion
+FAMILIA: Padre fallecido (referenciado)
+
+═══════════════════════════════════════════════════
+ROL EN LA HISTORIA
+═══════════════════════════════════════════════════
+
+POSICIÓN: Maestra del Gremio de Aventureros
+ESPECIALIDAD: Combate elegante, gestión de misiones
+PERSONALIDAD: Analítica silenciosa, autoridad
+FUNCIÓN: Mentora, entrega misiones, apoyo
+
+═══════════════════════════════════════════════════
+APARIENCIA FÍSICA DETALLADA
+═══════════════════════════════════════════════════
+
+CABELLO:
+- Color: ROSA-PINK (rose-pink)
+- Tono: Suave, no magenta, no salmón
+- Longitud: Largo (mid-back cuando suelto)
+- Estilo: HIGH PONYTAIL (coleta alta)
+- Atada con CINTA NEGRA (black silk ribbon)
+- Ribbon claramente visible siempre
+- Layered bangs enmarcando la cara
+- No cubre ojos
+
+OJOS:
+- Color: ROJO CARMESÍ profundo
+- Tono: Rico, no naranja, no púrpura
+- Deep crimson
+- Diferente del rojo de Jota (más profundo)
+- Expresión base: Composed, autoritaria
+
+ROSTRO:
+- Refinado mature elegance
+- Rasgos controlados
+- Autoridad visible
+- Aparentemente joven pero mature
+- Piel clara
+
+CUERPO:
+- Delgado elegante
+- Silueta claramente femenina
+- Más baja que el cast masculino
+- Postura autoritaria compuesta
+- Movimientos gráciles
+
+═══════════════════════════════════════════════════
+VESTIMENTA OFICIAL
+═══════════════════════════════════════════════════
+
+CAPA BASE:
+- Blusa blanca interior
+- Visible en cuello y puños
+
+CAPA MEDIA:
+- Corset negro estructurado
+- Bordado dorado detallado
+- Laced en la espalda
+- Se ajusta a la cintura
+
+CAPA EXTERIOR:
+- Chaqueta noble crimson-red
+- Detalles bordados en oro
+- En collar y bordes
+- Diseño académico senior rank
+- Abierta al frente mostrando corset
+
+INFERIOR:
+- Falda negra corta en capas
+- Multiple fabric layers visibles
+- Botas negras hasta el tobillo con tacón
+- Detalle de hebilla dorada lateral
+- Elegante formal noble
+
+═══════════════════════════════════════════════════
+UTILERÍA PERMANENTE
+═══════════════════════════════════════════════════
+
+GUANTES:
+- Tipo: FULL FINGER (dedos completos)
+- Elegantes
+- Extienden hasta debajo del codo
+- Color: Negro
+- Trim: Dorado en borde superior
+- Diseño refinado noble
+- SIEMPRE en ambas manos
+
+CINTA DEL CABELLO:
+- Black silk ribbon
+- Atada en base del ponytail
+- Long tails hanging down
+- SIEMPRE presente
+- NUNCA removida
+
+BOTAS:
+- Ankle high con tacón
+- Cuero negro
+- Hebilla dorada lateral
+- Formal noble aesthetic
+
+═══════════════════════════════════════════════════
+ARMAS
+═══════════════════════════════════════════════════
+
+ARMA ÚNICA:
+MAGICAL ESTOC (Estoque mágico)
+- Cantidad: EXACTAMENTE 1 (NUNCA dos)
+- Diseño: Delgado y elegante
+- Hoja: Recta, delgada
+- Guarda: Ornamentada dorada
+- Empuñadura: Dorada
+- Elegante scabbard de cuero
+
+POSICIÓN:
+- Envainada en CADERA IZQUIERDA
+- SIEMPRE UN solo estoque
+- NUNCA dual wield
+- NUNCA arma secundaria diferente
+
+Si aparece segunda arma → ERROR INMEDIATO
+
+═══════════════════════════════════════════════════
+PERSONALIDAD Y COMPORTAMIENTO
+═══════════════════════════════════════════════════
+
+ARQUETIPO: Autoridad elegante madura
+TEMPERAMENTO: Compuesta, silenciosa, observadora
+COMUNICACIÓN: Directa pero refinada
+HUMOR: Ocasional, sutil
+BAJO PRESIÓN: Sin cambios visibles
+DECISIONES: Autoridad natural
+
+EXPRESIONES BASE:
+- Neutro: Cara compuesta autoridad
+- Concentrada: Ojos calculadores
+- Amusement: Sonrisa muy sutil
+- Serio: Sin cambios, aún más presente
+- Nunca aggressive, nunca fearful
+🎨 PROMPT MAESTRO ALICE
+text
+
+"premium Korean fantasy manhwa illustration,
+semi-realistic character rendering,
+
+ALICE EVERGARDEN, female 1.70m,
+23 years old adult,
+only female of main cast,
+slim elegant build,
+clearly feminine silhouette,
+
+FACE:
+long rose-pink hair,
+soft rose tone NOT magenta NOT salmon,
+high ponytail secured at crown,
+BLACK SILK RIBBON tied at ponytail base,
+long ribbon tails hanging down,
+ribbon ALWAYS visible,
+soft layered bangs framing face,
+NOT covering eyes,
+deep crimson-red eyes,
+rich deep crimson,
+NOT orange-red NOT purple-red,
+different from Jota red (deeper),
+refined mature elegant face,
+composed authority in features,
+light fair skin,
+youthful but clearly older than 20yo students,
+
+OUTFIT:
+white inner blouse visible at collar and cuffs,
+black structured corset with gold trim,
+gold embroidered details on corset,
+laced at back,
+elegant crimson-red noble jacket over corset,
+gold embroidered details on collar and edges,
+open at front showing corset below,
+formal academic senior rank aesthetic,
+short black layered skirt,
+multiple fabric layers visible,
+
+UTILERÍA:
+FULL FINGER black gloves both hands,
+extending to just below elbow,
+gold trim at top edge,
+refined noble design,
+black leather ankle boots with heels,
+gold buckle detail on side,
+elegant formal aesthetic,
+
+WEAPON (EXACTLY ONE):
+single magical estoc,
+thin straight elegant blade,
+ornate golden guard and grip,
+elegant leather scabbard at LEFT HIP,
+NEVER dual wield,
+NEVER second weapon,
+NEVER different weapon type,
+ONE weapon only,
+
+EXPRESSION BASE:
+professionally composed,
+calm observing gaze,
+authority in posture,
+never aggressive never fearful,
+
+STYLE:
+clean sharp linework,
+soft gradient shading,
+warm cinematic lighting,
+NOT photorealistic,
+coherent professional art direction,
+elegant noble aesthetic"
+⬜ HEYKER — ARCHIMAGO
+📋 HOJA DE PERSONAJE
+text
+
+═══════════════════════════════════════════════════
+INFORMACIÓN BÁSICA
+═══════════════════════════════════════════════════
+
+NOMBRE COMPLETO: Heyker
+EDAD: 23 años (parece más joven de lo que es)
+GÉNERO: Masculino
+ALTURA: 1.85 m (más alto del cast completo)
+PESO: aprox. 72 kg
+COMPLEXIÓN: Delgada elegante long-limbed
+ORIGEN: Nativo de Elarion
+
+═══════════════════════════════════════════════════
+ROL EN LA HISTORIA
+═══════════════════════════════════════════════════
+
+POSICIÓN: Archimago
+ESPECIALIDAD: Magia avanzada de múltiples elementos
+PERSONALIDAD: Irónico calmo, sofisticado
+FUNCIÓN: Mentor mágico de Factor Eclipse
+        (especialmente de Dase)
+
+═══════════════════════════════════════════════════
+APARIENCIA FÍSICA DETALLADA
+═══════════════════════════════════════════════════
+
+CABELLO:
+- Base: PLATEADO (silver)
+- FRONT STREAK dorado claramente visible
+- Streak es distintivo único
+- Longitud: Medio layered
+- Cae naturalmente ligeramente estructurado
+- NO puramente plateado (necesita streak)
+- NO todo dorado
+
+OJOS:
+- Color: ÁMBAR (amber)
+- Warm amber
+- Más cálido y oscuro que dorado de Liaz
+- Distinctly different from Liaz's gold
+- Expresión base: Calmada, irónica
+
+ROSTRO:
+- Refinado agudo
+- Rasgos sofisticados
+- Ligeramente irónico natural
+- Sin barba, sin stubble
+- Más mature del cast masculino
+- Piel clara
+
+CUERPO:
+- Delgado long-limbed
+- MÁS ALTO del cast (1.85m)
+- Height es su presencia física
+- Postura relajada implicando control total
+- Movimientos elegantes controlados
+- Nunca tenso ni defensivo
+
+═══════════════════════════════════════════════════
+VESTIMENTA OFICIAL
+═══════════════════════════════════════════════════
+
+ABRIGO:
+- Color base: Negro
+- Detalles: Sutiles dorados arcanos
+- Ornamentación decorativa (no estructural)
+- Longitud: Larga
+- Diseño: Elegante minimalista
+- SIN armor
+- SIN shoulder panels
+- SIN bulk
+- Silueta limpia
+
+INFERIOR:
+- Pantalones ajustados oscuros
+- Botas altas refinadas oscuras
+- Trim dorado sutil
+
+═══════════════════════════════════════════════════
+UTILERÍA PERMANENTE
+═══════════════════════════════════════════════════
+
+GUANTES:
+- Tipo: FULL FINGER
+- Color: Negro
+- Trim: Sutil dorado en muñeca
+- Diseño elegante refinado
+- SIEMPRE en ambas manos
+- Sophisticated not combat-focused
+
+CINTURÓN:
+- Delgado cuero oscuro
+- Hebilla dorada con símbolo arcano
+- Elegante no bulky
+
+COLLAR/PENDANT:
+- Pendant dorado con símbolo arcano
+- Pequeño en el collar/pecho
+- Accesorio mágico sutil
+- Indicador de rango superior
+- SIEMPRE visible
+
+ANILLOS:
+- 1-2 anillos elegantes
+- Dorados con piedra oscura
+- Significado mágico sutil
+- Visibles cuando manos mostradas
+
+BOTAS:
+- Altas refinadas
+- Cuero oscuro
+- Trim dorado sutil
+- Sin refuerzo de combate
+- Sophisticated appearance
+
+═══════════════════════════════════════════════════
+ARMAS
+═══════════════════════════════════════════════════
+
+SIN ARMA FÍSICA VISIBLE
+Su poder mágico es su arma
+Puede materializar armas ámbar si es necesario
+Pero raramente lo hace
+Presencia es su intimidación
+
+═══════════════════════════════════════════════════
+MAGIA Y HABILIDADES
+═══════════════════════════════════════════════════
+
+AFINIDAD ELEMENTAL: Múltiple / Universal
+COLOR DE MAGIA: Ámbar
+
+NIVELES DE ENERGÍA:
+L1: Quietud sobrenatural visible
+L2: Ondas de presión sutiles como distorsión
+L3: Entorno se dobla sutilmente a su alrededor
+L4: Presencia aplana el fondo visual
+LMAX: Panel entero se vuelve monocromático ámbar
+
+HABILIDADES ESPECIALES:
+- Magia avanzada de múltiples elementos
+- Creación de pergaminos mágicos
+- Enseñanza de técnicas
+- Manipulación del espacio
+- Presencia intimidante controlada
+- Ironía sofisticada (personality skill)
+
+═══════════════════════════════════════════════════
+PERSONALIDAD Y COMPORTAMIENTO
+═══════════════════════════════════════════════════
+
+ARQUETIPO: Mentor sofisticado irónico
+TEMPERAMENTO: Calmo, sofisticado, controlado
+COMUNICACIÓN: Elegante, ocasionalmente sarcástica
+HUMOR: Irónico refinado
+BAJO PRESIÓN: Aún más calmo
+DECISIONES: Con perspectiva mayor
+
+EXPRESIONES BASE:
+- Neutro: Cara relajada control total
+- Concentrado: Ojos entrecerrados sutil
+- Amusement: Ceja arqueada, half-smile
+- Serio: Sin cambios drásticos
+- Irónico: Su expresión más común
+
+NOTA CULTURAL:
+Los personajes bromean que "no parece
+capaz de cuidar una planta" y que
+"probablemente la haría explotar" -
+demuestra que su poder no es
+evidente en su apariencia refinada.
+🎨 PROMPT MAESTRO HEYKER
+text
+
+"premium Korean fantasy manhwa illustration,
+semi-realistic character rendering,
+
+HEYKER, male 1.85m tallest of entire cast,
+23 years old adult,
+slim elegant long-limbed build,
+height is his physical presence,
+
+FACE:
+silver hair with distinct golden front streak,
+silver base throughout,
+golden streak at front clearly visible,
+distinct color break from silver base,
+medium layered length,
+falls naturally slightly structured,
+warm amber eyes,
+distinctly different from Liaz gold,
+darker and warmer than gold,
+clean-shaven mature youthful face,
+sharp refined features,
+most mature male face overall,
+naturally slight ironic quality,
+NO BEARD NO STUBBLE EVER,
+light fair skin,
+
+OUTFIT:
+long elegant black coat,
+subtle gold arcane details ornamental,
+NOT structural like Liaz gold,
+elegant minimal aesthetic,
+NO armor,
+NO shoulder panels,
+NO bulk,
+clean silhouette,
+dark fitted trousers,
+tall dark refined boots with subtle gold trim,
+
+UTILERÍA:
+FULL FINGER black gloves both hands,
+subtle gold trim at wrist,
+refined elegant design,
+thin dark leather belt,
+gold buckle with arcane symbol,
+small gold arcane symbol pendant at collar,
+1-2 elegant gold rings with dark stone visible
+when hands shown,
+
+WEAPON: NONE
+No physical weapon visible,
+his magic is his weapon,
+can materialize amber weapons if needed,
+but rarely does,
+
+MAGIC AFFINITY: MULTIPLE/UNIVERSAL
+Warm amber energy manifestation,
+Advanced magic multiple elements,
+
+EXPRESSION BASE:
+calm slightly ironic,
+one eyebrow subtly raised,
+relaxed posture implies total control,
+never tense never aggressive,
+sophisticated composed,
+
+CRITICAL:
+Must be visibly tallest in any group scene,
+height 1.85m must be apparent,
+slim frame makes height more noticeable,
+
+STYLE:
+clean sharp linework,
+soft gradient shading,
+warm cinematic lighting,
+NOT photorealistic,
+coherent professional art direction,
+sophisticated refined aesthetic"
+
+🟪 ZAIL — FICHA COMPLETA
+text
+
+═══════════════════════════════════════════════════
+INFORMACIÓN BÁSICA
+═══════════════════════════════════════════════════
+
+NOMBRE COMPLETO: Zail
+GÉNERO: Masculino
+ALTURA: 1.80 m (misma que Liaz - mirror)
+COMPLEXIÓN: Atlética delgada (igual que Liaz)
+ROL: Villano principal / Antagonista
+CONEXIÓN NARRATIVA: Espejo oscuro de Liaz
+
+═══════════════════════════════════════════════════
+APARIENCIA FÍSICA
+═══════════════════════════════════════════════════
+
+CABELLO:
+- Color: NEGRO puro naturalmente messy
+- Textura: Igual que Liaz (spiky messy natural)
+- Longitud: Medio, cae sobre frente
+- IDÉNTICO estilo a Liaz
+
+OJOS:
+- Color: ROJO SANGRE brillante siniestro
+- Tono: Rojo intenso amenazante
+- DIFERENTE del rojo de Jota (más siniestro, brillante sobrenatural)
+- DIFERENTE del carmesí de Alice (más agresivo)
+- Expresión base: Malévola, calculadora, sonrisa perturbadora
+
+ROSTRO:
+- Mismo tipo que Liaz (adulto joven, mandíbula definida)
+- Piel MÁS PÁLIDA que Liaz (pallor enfermizo)
+- Sin barba, sin stubble
+- Ojeras sutiles bajo los ojos (desgaste)
+
+═══════════════════════════════════════════════════
+UNIFORME CORRUPTO (Base de Liaz Modificada)
+═══════════════════════════════════════════════════
+
+ABRIGO PRINCIPAL:
+- MISMA ESTRUCTURA que Liaz
+- Color base: Negro oscuro (más apagado)
+- Trim dominante: PÚRPURA SINIESTRO 
+  (donde Liaz tiene DORADO)
+- Acentos secundarios: PÚRPURA MAGENTA oscuro
+  (donde Liaz tiene azul eléctrico)
+- Diseño: Líneas estructurales angulares
+- Detalles: Líneas tipo relámpagos ahora
+  parecen GRIETAS OSCURAS estilizadas
+- ESTADO: DESGASTADO
+  * Bordes deshilachados
+  * Cortes/rasgaduras en la tela
+  * Manchas oscuras
+  * Costuras visibles
+  * Apariencia batalla usada
+
+CAPA:
+- Corta y angular (igual que Liaz)
+- Diseño geométrico
+- Bordes rasgados y desgastados
+- Acentos púrpura oscuro en bordes
+- Aspecto vencido, no cuidado
+
+DETALLES:
+- Cadenas OSCURAS/OXIDADAS (donde Liaz tiene doradas)
+- Desde hombro IZQUIERDO hasta pecho
+- Emblema Astraval CORRUPTO/DAÑADO
+  * Como si estuviera quemado o roto
+  * Símbolo del gremio traicionado
+- Botones opacos oscuros
+
+═══════════════════════════════════════════════════
+UTILERÍA CORRUPTA
+═══════════════════════════════════════════════════
+
+GUANTES:
+- Fingerless (igual que Liaz)
+- Color: Negro con desgaste
+- Trim: PÚRPURA en muñeca (no dorado)
+- Cuero maltratado, arañado
+- SIEMPRE en ambas manos
+
+CINTURÓN:
+- Ancho negro cuero desgastado
+- Hebilla PÚRPURA opaca (no dorada)
+- Marcas de uso pesado
+
+BOTAS:
+- Altas de combate (igual que Liaz)
+- Cuero oscuro rayado
+- Trim púrpura oscuro
+- Suelas gastadas
+- Manchas y suciedad visible
+
+═══════════════════════════════════════════════════
+ARMAS (Espejo Corrupto de Liaz)
+═══════════════════════════════════════════════════
+
+ARMAS PRIMARIAS:
+TWIN KNUCKLE-DAGGERS CORRUPTAS
+- Cantidad: EXACTAMENTE 2 (igual que Liaz)
+- Diseño: Misma forma pero CORRUPTA
+- Color: Negro con detalles PÚRPURA (no dorado)
+- Hojas: Con grabados oscuros
+- Nudilleras: Con gemas PÚRPURA embebidas
+- Aspecto: Malditas, corrompidas
+- Grabados ornamentales oscuros
+
+POSICIÓN PASIVA:
+- Una en costado IZQUIERDO
+- Una en costado DERECHO
+- Horizontales perpendiculares al cuerpo
+- Igual configuración que Liaz
+
+ARMA SECUNDARIA:
+- Energía PÚRPURA SINIESTRA (donde Liaz tiene dorada)
+- Manifestación de OSCURIDAD/VACÍO
+- Rayos púrpuras corruptos
+- Humo oscuro violeta
+
+═══════════════════════════════════════════════════
+MAGIA Y HABILIDADES
+═══════════════════════════════════════════════════
+
+AFINIDAD ELEMENTAL: Rayo Oscuro / Vacío
+COLOR DE MAGIA: PÚRPURA-MAGENTA SINIESTRO
+(Corrupción del rayo dorado de Liaz)
+
+NIVELES DE ENERGÍA:
+L1: Destellos púrpuras en manos
+L2: Líneas púrpuras trazando en el aire
+L3: Aura púrpura envolviendo cuerpo
+L4: Entorno teñido de púrpura oscuro
+LMAX: Espacio se fractura con vacío púrpura
+      + agujero negro púrpura manifestado
+
+HABILIDADES ESPECIALES:
+- Velocidad aumentada por rayo oscuro
+- Ataques de vacío
+- Corrupción de la magia dorada de Liaz
+- Manifestación de vacío/portales oscuros
+
+═══════════════════════════════════════════════════
+PERSONALIDAD Y COMPORTAMIENTO
+═══════════════════════════════════════════════════
+
+ARQUETIPO: Espejo oscuro del protagonista
+TEMPERAMENTO: Calmado siniestro (mismo tono que Liaz pero perverso)
+COMUNICACIÓN: Frases cortas, mordaces
+HUMOR: Cruel, mordaz
+BAJO PRESIÓN: Sonríe más
+DECISIONES: Rápidas y malévolas
+
+EXPRESIONES BASE:
+- Neutro: Ojos entrecerrados con sonrisa sutil siniestra
+- Concentrado: Ceño fruncido intenso
+- Amusement: Smirk malévolo
+- Serio: Ojos brillando púrpura
+- Cruel: Sonrisa amplia perturbadora
+🎨 PROMPT MAESTRO ZAIL
+text
+
+"premium Korean fantasy manhwa illustration,
+semi-realistic character rendering,
+
+ZAIL, male 1.80m, adult villain,
+athletic lean build (SAME as Liaz),
+adult male proportions,
+DARK MIRROR of protagonist Liaz,
+
+FACE:
+pure black naturally messy medium hair,
+slightly spiky natural texture (identical to Liaz),
+NO color tint (no blue no gray),
+bright BLOOD RED sinister eyes,
+supernatural menacing red glow,
+DIFFERENT from Jota red (more sinister),
+DIFFERENT from Alice crimson (more aggressive),
+clean-shaven sharp defined jawline,
+adult male features,
+NO BEARD NO STUBBLE EVER,
+UNHEALTHY PALE skin (paler than Liaz),
+subtle dark circles under eyes,
+disturbing calm smile natural expression,
+
+CORRUPTED UNIFORM:
+long dark structured coat (SAME base as Liaz),
+DOMINANT SINISTER PURPLE TRIM lines
+(replacing Liaz's gold with dark purple),
+DARK MAGENTA accents secondary
+(replacing Liaz's electric blue),
+crack-like patterns on sleeves
+(replacing Liaz's lightning patterns),
+short angular geometric cape,
+WORN AND DAMAGED CONDITION:
+- frayed edges throughout
+- visible cuts and tears in fabric
+- dark stains
+- exposed stitching
+- battle-worn appearance,
+
+DARK RUSTED chains from LEFT shoulder to chest
+(replacing Liaz's gold chains),
+CORRUPTED/DAMAGED Astraval emblem centered on chest,
+emblem appears burned or broken,
+symbolizing betrayal of the guild,
+fitted black trousers worn,
+
+UTILERÍA CORRUPTED:
+black fingerless gloves both hands worn condition,
+PURPLE trim at wrist (not gold),
+scratched maltreated leather,
+wide worn black leather belt,
+opaque purple buckle (not gold),
+tall dark combat boots scratched,
+purple dark trim,
+worn soles, dirt visible,
+
+WEAPONS (EXACTLY TWO - CORRUPTED PAIR):
+TWIN KNUCKLE-DAGGERS CORRUPTED VERSION,
+brass knuckle base with DARK ornamental engravings,
+PURPLE GEMS embedded in knuckle guards
+(replacing Liaz's design),
+short dagger blade 10-15cm extending forward,
+total length 20-30cm each,
+cursed corrupted aesthetic,
+POSITION PASSIVE:
+one at his LEFT waist side,
+one at his RIGHT waist side,
+horizontal perpendicular to body,
+attached to belt loops,
+NO third dagger,
+
+SECONDARY WEAPON:
+SINISTER PURPLE lightning energy manifestation
+(corruption of Liaz's golden lightning),
+dark void magic,
+purple-magenta corrupted rays,
+dark violet smoke aura,
+
+MAGIC AFFINITY:
+Dark Lightning / Void,
+sinister purple-magenta energy,
+corrupted version of Liaz's golden power,
+
+EXPRESSION BASE:
+calm sinister menacing,
+eyes narrowed with subtle malevolent smile,
+disturbing composed presence,
+mirror darker version of Liaz's expression,
+
+STYLE:
+clean sharp linework,
+soft gradient shading,
+dark cinematic lighting,
+purple glow accents,
+NOT photorealistic,
+coherent professional art direction,
+villain aesthetic corrupted mirror"
