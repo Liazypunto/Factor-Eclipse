@@ -3,34 +3,18 @@ Factor Eclipse es un manhwa coreano de fantasía, acción e isekai escrito e ilu
 📋 Ficha Técnica
 Campo
 	
-Información
-Título original
+FICHA TÉCNICA
+
+    Título original: Factor Eclipse (팩터 이클립스)
+    Autor / Ilustrador: Liaz
+    Género: Isekai · Fantasía · Acción · Aventura · Shōnen
+    Demografía: Shōnen / Seinen
+    Estado: En emisión (Temporada 2 finalizada)
+    Capítulos publicados: 48 capítulos + 2 OVAs (Temporada 1: Caps. 1-24 + OVA 1; Temporada 2: Caps. 25-48 + OVA 2)
+    Publicación original: Weebtoon (formato digital vertical)
+    Temas: Invocación interdimensional, Marea del Vacío, Siete Torres Selladas, Amistad, Sistema de bendiciones, Multiverso
+    Ambientación: Reino de Astraval · Continente de Elarion
 	
-Factor Eclipse (팩터 이클립스)
-Autor / Ilustrador
-	
-Liaz
-Género
-	
-Isekai · Fantasía · Acción · Aventura · Shōnen
-Demografía
-	
-Shōnen / Seinen
-Estado
-	
-En emisión (Temporada 2 finalizada)
-Capítulos publicados
-	
-48 capítulos + 2 OVAs (Temporada 1: Caps. 1-24 + OVA 1; Temporada 2: Caps. 25-48 + OVA 2)
-Publicación original
-	
-Weebtoon (formato digital vertical)
-Temas
-	
-Invocación interdimensional, Marea del Vacío, Siete Torres Selladas, Amistad, Sistema de bendiciones, Multiverso
-Ambientación
-	
-Reino de Astraval · Continente de Elarion
 📜 Sinopsis
 
     "Cinco amigos que pasaban la noche hablando sobre qué harían si terminaran en un isekai... terminaron descubriendo que la pregunta no era hipotética."
@@ -63,48 +47,22 @@ Región gobernada por clanes vampíricos, hogar del Clan Huppija (al que pertene
 ⚔️ Sistema de Poder
 🌟 Bendiciones del Destino
 Habilidades otorgadas por los dioses a los invocados a través del Altar de Revelación. No son elegidas por mérito, sino por "posibilidad". Evolucionan con el esfuerzo del portador.
-Rarezas
-Rareza
+
+RAREZAS DE LAS BENDICIONES
+
+    Común (Color: Blanco): Habilidades básicas.
+    Poco Común (Color: Verde): Potencial versátil.
+    Rara (Color: Violeta): Alto potencial específico.
+    Épica (Color: Dorado): Extremadamente raras, impacto histórico.
+    Legendaria (Color: Rojo): Míticas, pocas registradas.
+    Incalculable (Color: ???): Fuera de escala (solo Zail).
 	
-Color
-	
-Descripción
-Común
-	
-Blanco
-	
-Habilidades básicas
-Poco Común
-	
-Verde
-	
-Potencial versátil
-Rara
-	
-Violeta
-	
-Alto potencial específico
-Épica
-	
-Dorado
-	
-Extremadamente raras, impacto histórico
-Legendaria
-	
-Rojo
-	
-Míticas, pocas registradas
-Incalculable
-	
-???
-	
-Fuera de escala (solo Zail)
-Categorías
+CATEGORÍAS DE BENDICIONES
 
     Combate: Orientadas al enfrentamiento directo.
     Apoyo: Utilidad táctica, curación, rastreo.
     Especial: Capacidades únicas fuera de clasificación estándar.
-    Producción / Creación: Habilidades utilitarias (herrero, explorador, etc.)
+    Producción / Creación: Habilidades utilitarias (herrero, explorador, etc.).
     Anomalía: Categoría reservada para entidades fuera del sistema (Zail).
 
 🔮 Afinidades Elementales
@@ -116,116 +74,24 @@ Cada invocado puede poseer una afinidad mágica que potencia su estilo:
     🪨 Tierra (Ragda)
     🔥 Fuego (Zenryu, Heyker, Alice)
     ✨ Luz Sagrada (Seraphina)
-    🟣 Vacío / Rayo Oscuro (Zail)
-    🟤 Universal / Múltiple (Heyker)
+    🟣 Vacío / Rayo Oscuro (Zail)(único caso conocido)
+    🟤 Múltiple (Heyker)(único caso conocido)
 
 Los casos con tres afinidades son extremadamente raros. Heyker es el único conocido en Astraval.
+
 👥 Personajes
-🟡 Factor Eclipse (Grupo Principal)
-Rango actual: C- (Ascendidos tras la misión de los Lobos Carmesí)
-Objetivo: Restaurar las Siete Torres y detener la Marea del Vacío.
-Nombre
+
+🟡 FACTOR ECLIPSE (GRUPO PRINCIPAL)
+(Rango actual: C- | Objetivo: Restaurar las Siete Torres y detener la Marea del Vacío)
+
+    Liaz: 20 años | Rareza: Épica | Categoría: Especial | Habilidad: Predicción de Segundos Futuros | Afinidad: Rayo | Arma: Nudilleras con dagas gemelas.
+    Jota: 20 años | Rareza: Poco Común | Categoría: Combate | Habilidad: Dominio Instintivo de un Arma | Afinidad: Ninguna | Arma: Espada larga.
+    Mun: 20 años | Rareza: Rara | Categoría: Especial | Habilidad: Almacenamiento de Energía | Afinidad: Viento | Arma: Lanza ligera.
+    Dase: 20 años | Rareza: Poco Común | Categoría: Apoyo | Habilidad: Aprendizaje Acelerado | Afinidad: Agua | Arma: Bastón mágico.
+    Ragda: 20 años | Rareza: Rara | Categoría: Combate | Habilidad: Percepción de Puntos Débiles | Afinidad: Tierra | Arma: Martillo de guerra.
+    Zenryu: 16 años | Rareza: Rara | Categoría: Combate | Habilidad: Fuerza Explosiva | Afinidad: Fuego | Arma: Katana.
+    Buda: 18 años | Rareza: Rara | Categoría: Apoyo | Habilidad: Marcador del Cazador | Afinidad: Viento | Arma: Arco compuesto + guitarra.
 	
-Edad
-	
-Rareza
-	
-Categoría
-	
-Habilidad
-	
-Afinidad
-	
-Arma
-Liaz
-	
-20
-	
-Épica
-	
-Especial
-	
-Predicción de Segundos Futuros
-	
-⚡ Rayo
-	
-Nudilleras con dagas gemelas
-Jota
-	
-20
-	
-Poco Común
-	
-Combate
-	
-Dominio Instintivo de un Arma
-	
-❌ Ninguna
-	
-Espada larga
-Mun
-	
-20
-	
-Rara
-	
-Especial
-	
-Almacenamiento de Energía
-	
-🌪️ Viento
-	
-Lanza ligera
-Dase
-	
-20
-	
-Poco Común
-	
-Apoyo
-	
-Aprendizaje Acelerado
-	
-💧 Agua
-	
-Bastón mágico
-Ragda
-	
-20
-	
-Rara
-	
-Combate
-	
-Percepción de Puntos Débiles
-	
-🪨 Tierra
-	
-Martillo de guerra
-Zenryu
-	
-16
-	
-Rara
-	
-Combate
-	
-Fuerza Explosiva
-	
-🔥 Fuego
-	
-Katana
-Buda
-	
-18
-	
-Rara
-	
-Apoyo
-	
-Marcador del Cazador
-	
-🌪️ Viento
 	
 Arco compuesto + guitarra
 (Para detalles completos de apariencia, personalidad y técnicas de cada miembro, consultar las fichas extendidas en la base de datos de personajes).
